@@ -1,5 +1,5 @@
 <h1 align="center">Fala ae! 👋, Meu nome é Giovane Carvalho</h1>
-<h3 align="center">Atualmente atuo como analista de processos e projetos! Sou Apaixonado por Data Analytics, Data Science e BI!</h3>
+<h3 align="center">Atualmente atuo como analista de processos e projetos! Data Analytics, Data Science e BI!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gigiosbarbr&label=Profile%20views&color=0e75b6&style=flat" alt="gigiosbarbr" /> </p>
 
