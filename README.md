@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Giovane Carvalho</h1>
-<h3 align="center">Atualmente sou analista de processos e projetos! Apaixonado por Data Analytics, Data Science e BI!</h3>
+<h1 align="center">Fala ae! 👋, Meu nome é Giovane Carvalho</h1>
+<h3 align="center">Atualmente atuo como analista de processos e projetos! Sou Apaixonado por Data Analytics, Data Science e BI!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gigiosbarbr&label=Profile%20views&color=0e75b6&style=flat" alt="gigiosbarbr" /> </p>
 
-- 🔭 I’m currently working on **Messer Gases Brasil**
+- 🔭 Atualmente trabalho **Messer Gases Brasil**, uma empresa de gases medicinais, industriais e especiais! Voltado a tudo que envolve transformação digital na empresa!
 
-- 🌱 I’m currently learning **Data Science and Analytics**
+- 🌱 Meu github é voltado para **Data Science, Data Analytics e BI**, pelo que sou apaixonado :)
 
-- 💬 Ask me about **Python, Power BI, Tableau, Excel, SQL**
+- 💬 Me pergunte sobre **Python, Power BI, Tableau, Excel, SQL**, vamos ter uma boa conversa!
 
-- 📫 How to reach me **degio2009@hotmail.com**
+- 📫 Meu contato é via email: **degio2009@hotmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/giovane-carvalho-4a9411173/](https://www.linkedin.com/in/giovane-carvalho-4a9411173/)
+- 📄 Meu perfil no LinkedIn: [https://www.linkedin.com/in/giovane-carvalho-4a9411173/](https://www.linkedin.com/in/giovane-carvalho-4a9411173/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
