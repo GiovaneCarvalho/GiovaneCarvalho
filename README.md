@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente trabalho **Messer Gases Brasil**, uma empresa de gases medicinais, industriais e especiais! Voltado a tudo que envolve transformação digital na empresa!
 
-- 🌱 Meu github é voltado para **Data Science, Data Analytics e BI**, pelo que sou apaixonado :)
+- 🌱 Meu github é voltado para **Data Science, Data Analytics e BI**
 
 - 💬 Me pergunte sobre **Python, Power BI, Tableau, Excel, SQL**, vamos ter uma boa conversa!
 
