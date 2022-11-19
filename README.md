@@ -7,7 +7,7 @@
 
 - 🌱 Meu github é voltado para **Data Science, Data Analytics e BI**
 
-- 💬 Me pergunte sobre **Python, Power BI, Tableau, Excel, SQL**, vamos ter uma boa conversa!
+- 💬 Me pergunte sobre **Python, Power BI, Tableau, Excel, SQL**
 
 - 📫 Meu contato é via email: **degio2009@hotmail.com**
 
