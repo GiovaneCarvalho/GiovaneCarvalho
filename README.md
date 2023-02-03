@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gigiosbarbr&label=Profile%20views&color=0e75b6&style=flat" alt="gigiosbarbr" /> </p>
 
-- 🔭 Atualmente trabalho **Messer Gases Brasil**, uma empresa de gases medicinais, industriais e especiais! Voltado a tudo que envolve transformação digital na empresa!
+- 🔭 Atualmente trabalho **Messer Gases Brasil**, uma empresa de gases medicinais, industriais e especiais! 
 
 - 🌱 Meu github é voltado para **Data Science, Data Analytics e BI**
 
