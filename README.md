@@ -1,13 +1,11 @@
-<h1 align="center">Olá! 👋, Meu nome é Giovane Carvalho</h1>
+<h1 align="center">Olá!, meu nome é Giovane Carvalho</h1>
 <h3 align="center">Atualmente atuo como Especialista em Data Analytics! Data Analytics, Data Science e BI!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gigiosbarbr&label=Profile%20views&color=0e75b6&style=flat" alt="gigiosbarbr" /> </p>
 
 - 🔭 Atualmente trabalho **Messer Gases Brasil**, uma empresa de gases medicinais, industriais e especiais! 
 
-- 🌱 Meu github é voltado para **Data Science, Data Analytics e BI**
-
-- 💬 Me pergunte sobre **Python, Aprendizado de Maquina, Data Science, Power BI e SQL**
+- 🌐 Tenho experiência em trabalhar com **Python, SQL, Power BI e Aprendizado de Máquina**
 
 - 📫 Meu contato é via email: **degio2009@hotmail.com**
 
