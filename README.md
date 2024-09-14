@@ -1,15 +1,16 @@
-<h1 align="center">Olá! Meu nome é Giovane Carvalho</h1>
-<h3 align="center">Atualmente atuo como Especialista em Data Analytics! Data Analytics, Data Science e BI!</h3>
+<h3 align="center">I currently work at Bosch, a German multinational specialized in engineering and technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gigiosbarbr&label=Profile%20views&color=0e75b6&style=flat" alt="gigiosbarbr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=giovanecarvalho&label=Profile%20views&color=0e75b6&style=flat" alt="giovanecarvalho" /> </p>
 
-- 🔭 Atualmente trabalho **Messer Gases Brasil**, uma empresa de gases medicinais, industriais e especiais! 
+- 🔭 I’m currently working on **BOSCH**
 
-- 🌐 Tenho experiência em trabalhar com **Python, SQL, Power BI e Aprendizado de Máquina**
+- 🌱 I’m studing more about **MLOPs**
 
-- 📫 Meu contato é via email: **degio2009@hotmail.com**
+- 💬 Ask me about **AI, Data Science, ML, python, SQL, Data Analytics, BI and etc.**
 
-- 📄 Meu perfil no LinkedIn: [https://www.linkedin.com/in/giovane-carvalho-4a9411173/](https://www.linkedin.com/in/giovane-carvalho-4a9411173/)
+- 📫 How to reach me **degio2009@hotmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/giovane-carvalho-4a9411173/](https://www.linkedin.com/in/giovane-carvalho-4a9411173/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,4 +18,7 @@
 <a href="https://instagram.com/oliveira_giovane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oliveira_giovane" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovanecarvalho&show_icons=true&locale=en&layout=compact" alt="giovanecarvalho" /></p>
