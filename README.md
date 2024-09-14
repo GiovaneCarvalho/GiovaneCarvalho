@@ -1,8 +1,5 @@
 <h3 align="center">I currently work at Bosch, a German multinational specialized in engineering and technology</h3>
 
-![pngwing com](https://github.com/user-attachments/assets/4ba168f5-3184-4465-adc4-8f8d2d48a563){width=20}
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giovanecarvalho&label=Profile%20views&color=0e75b6&style=flat" alt="giovanecarvalho" /> </p>
 
