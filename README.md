@@ -1,6 +1,6 @@
 <h3 align="center">I currently work at Bosch, a German multinational specialized in engineering and technology</h3>
 
-![pngwing com](https://github.com/user-attachments/assets/4ba168f5-3184-4465-adc4-8f8d2d48a563)
+![pngwing com](https://github.com/user-attachments/assets/4ba168f5-3184-4465-adc4-8f8d2d48a563) { width: 100px; }
 
 
 
