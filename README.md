@@ -13,7 +13,7 @@ Hi, my name is Giovane, and I'm a Senior Data Scientist at Robert BOSCH. Althoug
 
 - 📫 How to reach me **degio2009@hotmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/giovane-carvalho-4a9411173/](https://www.linkedin.com/in/giovane-carvalho-4a9411173/)
+- 🎲 See my medium account: https://medium.com/@giovaneoliveira_88284
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
