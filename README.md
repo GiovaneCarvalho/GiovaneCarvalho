@@ -1,13 +1,15 @@
-<h3 align="center">I currently work at Bosch, a German multinational specialized in engineering and technology</h3>
+<h3 align="center">A Data Science and Analytics Lover</h3>
+
+Hi, my name is Giovane, and I'm a Senior Data Scientist at Robert BOSCH. Although my degree is in Chemical Engineering from UNICAMP, I've always needed strong analytical and coding skills in my work. When I started working, I fell in love with the data world! I've gained experience in various areas and projects, including Data Engineering, Data Analytics, Data Visualization, Data Translation, and Data Science—covering nearly all imaginable aspects of data, haha! Currently, I'm focusing on predictive quality failures and building specialized agents for Text2SQL. Let’s connect!
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giovanecarvalho&label=Profile%20views&color=0e75b6&style=flat" alt="giovanecarvalho" /> </p>
 
-- 🔭 I’m currently working at **BOSCH**
+- 🔭 I’m currently working at **Robert BOSCH**
 
-- 🌱 I’m studing more about **MLOPs**
+- 🌱 I’m studing more about **MLOPs, LLMs and Agents**
 
-- 💬 Ask me about **AI, Data Science, ML, python, SQL, Data Analytics, BI and etc.**
+- 💬 Ask me about **AI, Data Science, Machine Learning, Python, SQL, Data Analytics, Power BI and etc.**
 
 - 📫 How to reach me **degio2009@hotmail.com**
 
