@@ -15,6 +15,7 @@ Hi, my name is Giovane, and I'm a Senior Data Scientist at Robert BOSCH. Althoug
 
 - 🎲 See my medium account: https://medium.com/@giovaneoliveira_88284
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/giovane-carvalho-4a9411173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/giovane-carvalho-4a9411173/" height="30" width="40" /></a>
